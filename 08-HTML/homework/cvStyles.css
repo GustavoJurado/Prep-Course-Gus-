@@ -1,0 +1,38 @@
+#topPart{
+    color: white;
+    font-size: 20px;
+    background-color: rgb(61, 60, 60);
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 30px;
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+#midPart{
+    padding-right: 45px;
+    padding-left: 45px;
+}
+#bottomPart{
+    padding-top: 5px;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+h1{
+    margin-bottom: 25px;
+}
+h2{
+    margin: 2px;
+}
+h4{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 20px;
+    color: rgb(80, 79, 79);
+}
+body{
+    background-color: rgb(204, 203, 203);
+}
